@@ -66,7 +66,7 @@ This project demonstrates the capabilities of modern NLP models in generating hu
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/62419aea-22f5-4bcb-8301-05ba906496a2)
 
 
 
